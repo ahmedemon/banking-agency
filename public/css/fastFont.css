@@ -1,0 +1,42 @@
+@import url(/fox/css/1.css?apiType=css&projectid=487b73f1-c2d1-43db-8526-db577e4c822b);
+
+@font-face {
+    font-family: "Avenir Next W01_n3";
+    src: url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("eot");
+}
+
+@font-face {
+    font-family: "Avenir Next W01";
+    src: url("/fox/css/fonts/AvenirNextLTPro-It.woff");
+    src: url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("eot"), url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("woff2"), url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("woff"), url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("truetype"), url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("svg");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Avenir Next W01_n4";
+    src: url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("eot");
+}
+
+@font-face {
+    font-family: "Avenir Next W01";
+    src: url("/fox/css/fonts/AvenirNextLTPro-It.woff");
+    src: url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("eot"), url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("woff2"), url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("woff"), url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("truetype"), url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Avenir Next W01_n5";
+    src: url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("eot");
+}
+
+@font-face {
+    font-family: "Avenir Next W01";
+    src: url("/fox/css/fonts/AvenirNextLTPro-It.woff");
+    src: url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("eot"), url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("woff2"), url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("woff"), url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("truetype"), url("/fox/css/fonts/AvenirNextLTPro-It.woff") format("svg");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@media all and (min-width: 0px) {}

@@ -1,0 +1,56 @@
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+/*
+==========================================
+    Heder Css
+==========================================
+*/
+
+.bangla_font{
+    font-family: 'Atma', cursive;
+}
+
+.bangla_font2{
+    font-family: 'Noto Serif Bengali', serif;
+}
+
+.btn{
+    font-weight: 600;
+}
+
+.btn:focus{
+    box-shadow: none;
+}
+
+.modal-content{
+    background: none;
+    border: none;
+}
+input{
+    margin:1rem;
+    border-radius: 5px;
+}
+input:focus{
+    box-shadow: none;
+}
+
+.border-2{
+    border-width: 2px !important;
+}

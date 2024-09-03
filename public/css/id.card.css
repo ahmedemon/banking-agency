@@ -1,0 +1,147 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ffffff;
+    font-family: Montserrat, sans-serif;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+
+.card-container {
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px -10px rgba(0, 0, 0, 0.75);
+    position: relative;
+    width: 252px;
+    height: 400px;
+    max-width: 100%;
+    text-align: center;
+}
+
+.card-container2 {
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    padding: 20px 8px;
+    position: relative;
+    width: 252px;
+    height: 400px;
+    max-width: 100%;
+    text-align: center;
+}
+
+
+.card-container .round {
+    border: 1px solid black;
+    border-radius: 50%;
+    /*padding: 7px;*/
+    margin-top: 26px;
+    /*margin-left:22px;*/
+    height: 150px;
+    width: 150px;
+}
+
+.card-container2 .round2 {
+    border: 1px solid black;
+    padding: 7px;
+    /* margin-top: 5px; */
+    margin-left: 22px;
+    height: 170px;
+    width: 170px;
+}
+
+.card-container2 p {
+    color: white;
+}
+
+hr.hr {
+    border: 1px solid white;
+}
+
+.content {
+    width: 252px;
+    height: 210px;
+    position: relative;
+    margin-top: 12px;
+    margin-left: 0;
+    border-radius: 0 0 5px 5px !important;
+}
+
+.content2 {
+    width: 236px;
+    /* height: 0px; */
+    position: relative;
+    margin-top: 20px;
+    margin-left: 0;
+    border-radius: 0 0 5px 5px !important;
+}
+
+.content2 p {
+    font-size: 15px;
+    color: black;
+    margin: 0;
+}
+
+small {
+    color: black;
+}
+
+.content h1 {
+    font-size: 30px;
+}
+
+.content h4 {
+    font-size: 24px;
+    color: black;
+    margin: 0;
+}
+
+h5 {
+    color: white;
+}
+
+.content p {
+    margin-bottom: 0px;
+}
+
+hr {
+    margin-top: 0;
+    margin-bottom: 5px;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, .1);
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    border: 1px solid transparent;
+    page-break-after: always;
+}
+
+.page-middle {
+    height: 100%;
+    width: 100%;
+    display: table;
+}
+
+.page-middle-inner {
+    height: 100%;
+    width: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
